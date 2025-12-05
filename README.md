@@ -4,7 +4,7 @@
 De repository bevat een verzameling van opgaven uit de EdHub.
 
 ## Inhoud
-Er wordt geoefend met operatoren, booleans, inputs, string-operatoren en berekeningen.
+Er wordt geoefend met operatoren, booleans, inputs, string-operations en berekeningen.
 
 ## Korte samenvatting van wat ik heb geleerd
 - Je kan code in sommige gevallen korter opschrijven met behoud van leesbaarheid
@@ -22,7 +22,10 @@ Er wordt geoefend met operatoren, booleans, inputs, string-operatoren en bereken
 
 - Met True en False kan je snel checken of jouw code goed werkt
 
+- Voor wetenschappelijke notatie maakt het niet uit of je 'e' of 'E' gebruikt
 
+
+- Bij floor division ```\\``` is het resultaat een int als beide getallen int zijn en float als 1 van de getallen float is in de berekening
 
 ## Informatie over het project
 Dit is een EdHUb opdracht uit de leerlijn Programming Fundamentals uit de bootcamp Web-development van Hogeschool Novi.

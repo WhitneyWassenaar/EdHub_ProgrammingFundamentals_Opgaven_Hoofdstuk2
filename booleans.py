@@ -143,3 +143,5 @@ print('De som van',getal1,'en',getal2,'is : ',som )
 
 # === Gebruik van f-string ===
 print(f'De som van {getal1} en {getal2} is :  {som}')
+
+print(True or 1 / 0)
