@@ -10,8 +10,18 @@ Er wordt geoefend met operatoren, booleans, inputs, string-operatoren en bereken
 - Je kan code in sommige gevallen korter opschrijven met behoud van leesbaarheid
     - Bijvoorbeeld in plaats van een volledige if statement te schrijven kan je het ook als een variabele opschrijven en dan de variabele aanroepen.
   
-
+  
 - Als er in een 'or' True voorkomt, dan is het resultaat altijd True
+
+
+- Je kunt berekeningen meteen in de print statement invoeren
+
+
+- Gebruik typecasting voor input als de gebruiker specifiek een int of float moet invoeren
+
+
+- Met True en False kan je snel checken of jouw code goed werkt
+
 
 
 ## Informatie over het project
