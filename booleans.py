@@ -44,6 +44,9 @@ print(10 > x > 0)
 print(10 > y > 0)
 
 
+print(x > 0 and x < 10)
+print(y > 0 and y < 10)
+
 
 
 
