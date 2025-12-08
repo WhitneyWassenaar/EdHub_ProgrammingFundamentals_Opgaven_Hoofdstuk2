@@ -27,5 +27,14 @@ Er wordt geoefend met operatoren, booleans, inputs, string-operations en bereken
 
 - Bij floor division ```\\``` is het resultaat een int als beide getallen int zijn en float als 1 van de getallen float is in de berekening
 
+
+- Gebruik voor jouw variabelen geen 'keywords' zoals 'and', 'while', 'break' en 'None'. Je kan wel 'And', 'Break' en 'none' gebruiken maar ook dat zou ik liever niet gebruiken om verwarring te voorkomen
+
+
+- Variabelenamen mogen best langer zijn om de waarde te verduidelijken
+
+
+- Een int kan omgezet worden naar een string, een float kan niet omgezet worden naar een string en een string kan niet omgezet worden naar een int
+
 ## Informatie over het project
 Dit is een EdHUb opdracht uit de leerlijn Programming Fundamentals uit de bootcamp Web-development van Hogeschool Novi.
