@@ -40,12 +40,15 @@ print(12 > 7 > 5 and 7 != 10)
 x = 5
 y = -5
 
+# === MIJN ANTWOORD ===
 print(10 > x > 0)
 print(10 > y > 0)
 
-
+# === UITWERKING ===
 print(x > 0 and x < 10)
 print(y > 0 and y < 10)
+
+# Beide antwoorden zijn goed
 
 
 
