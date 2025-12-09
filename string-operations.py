@@ -53,7 +53,7 @@ print(type(variabele_drie))
 # d.     none = ‘something’
 # ==========================================
 # === WAAROM ALLEMAAL NIET? ===
-# In de uitwerking staan de waarden van de variabelen tussen ‘ en ’. Dat zijn typografische aanhalingstekens en die kunnen niet in python gebruikt worden. Je gebruikt gewoon de normale aanhalingstekens zoals: " of '.
+# In de uitwerking staan de waarden van de variabelen tussen ‘ en ’. Dat zijn typografische aanhalingstekens en die kunnen niet in python gebruikt worden. Blijkbaar zijn deze tekens gebruikt omdat het er "mooier" uit ziet. Je gebruikt gewoon de normale aanhalingstekens zoals: " of '.
 # a.     And = ‘something’    | Kan niet
 # b.     while = ‘something’  | Kan niet
 # c.     Break = ‘something’  | Kan niet
